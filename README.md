@@ -5,6 +5,7 @@
 Welcome to the **Introduction to Cancer Biology** course! This  course is structured to give participants a deep understanding of cancer biology, exploring everything from fundamental principles to advanced research topics. Each week, we will cover different aspects of cancer biology, from cellular mechanisms to therapeutic strategies.
 
 ## 📅 Course Overview
+- **When?** 25-01-2025
 - **Duration**: 6 weeks
 - **Weekly Lecture**: One 3-hour session covering core concepts
 - **Advanced Topics**: One 1-hour session each week for in-depth discussions on advanced topics
