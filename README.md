@@ -143,6 +143,12 @@ Join us in this learning journey and become well-prepared for the next step in u
 
 ## 🚀 How to Join the Course
 
-This course is open for registration. Please **contact me** if you're interested in enrolling, or open an issue in this repository for general questions.
+To enroll in the **Introduction to Cancer Biology** course, please follow these steps:
 
-If you’re enthusiastic about gaining insights into cancer biology and ready to explore both theoretical and practical aspects, we look forward to having you on board!
+1. **Register through Google Form**  
+   Click [here to register](https://docs.google.com/forms/d/e/1FAIpQLSeI7vaaZ1bgucu4lwxnbu-KvpD_s8x0pAV7ThfwM48tLcIz7g/viewform) by filling out the required information on our Google Form.
+
+2. **Confirmation and Payment**  
+   After completing the form, a member of our team will contact you via **mobile phone** or **WhatsApp** to provide details about the payment process and confirm your enrollment.
+
+> ⚠️ **Please ensure that all information provided is accurate** to avoid any delays in registration and confirmation.
