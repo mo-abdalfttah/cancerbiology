@@ -1,7 +1,6 @@
-# cancerbiology
 # 🧬 Introduction to Cancer Biology
 
-Welcome to the **Introduction to Cancer Biology** course repository! This online course is structured to give participants a deep understanding of cancer biology, exploring everything from fundamental principles to advanced research topics. Each week, we will cover different aspects of cancer biology, from cellular mechanisms to therapeutic strategies.
+Welcome to the **Introduction to Cancer Biology** course! This  course is structured to give participants a deep understanding of cancer biology, exploring everything from fundamental principles to advanced research topics. Each week, we will cover different aspects of cancer biology, from cellular mechanisms to therapeutic strategies.
 
 ## 📅 Course Overview
 
@@ -21,8 +20,8 @@ Mohmed has a background in Biotechnology, Computational Biology, and Cancer Rese
 - **June 2021**: Graduated with a Bachelor’s degree in Biotechnology from Ain Shams University, Egypt.
 - **September 2021 - March 2022**: Completed a six-month internship in computational epigenomics, focusing on developing a cell-cell communication algorithm using bulk and single-cell transcriptomic data.
 - **June 2022**: Moved to Barcelona to work as a Computational Biologist, contributing to research projects on breast cancer and brain metastasis, with a focus on the tumor microenvironment using single-cell data and spatial transcriptomics.
-- **September 2023 - July 2024**: Pursued a Master’s degree at the Barcelona Institute of Science and Technology, with a thesis focusing on the tumor microenvironment and cancer cell heterogeneity in colorectal cancer through single-cell and spatial transcriptomics.
-- **September 2024**: Began a PhD at the National Cancer Research Center, specializing in brain metastasis research, focusing on cancer cell heterogeneity and the tumor microenvironment using single-cell and spatial genomics. 
+- **September 2023 - July 2024**: Pursued a Master’s degree at the Universitat Pompeu Fabra, with a thesis focusing on the tumor microenvironment and cancer cell heterogeneity in colorectal cancer through single-cell and spatial transcriptomics in Institute for Research in Biomedicine, Barcelona.
+- **September 2024**: Began a PhD at the National Cancer Research Center (CNIO) and the Faculty of Medicine at Universidad Autónoma de Madrid, specializing in brain metastasis research with a focus on cancer cell heterogeneity and the tumor microenvironment using single-cell and spatial genomics.
 
 Mohmed’s experience and expertise in computational biology, single-cell genomics, and cancer research bring valuable insights into this course.
 ---
@@ -40,6 +39,11 @@ Feel free to explore the resources provided, participate in discussions, and rea
 - **Early Registration**: 1000 EGP (from mid-November to mid-December)
 - **Regular Registration**: 1200 EGP (from mid-December to mid-January)
 - **Late Registration**: 1500 EGP (from mid-January to January 25)
+
+- ## 💳 How to Pay
+- **📲 Vodafone Cash**
+- **📱 InstaPay**
+- **🏦 Bank Transfer**
 
 ## 🚀 How to Join the Course
 
