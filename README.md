@@ -8,7 +8,7 @@ Welcome to the **Introduction to Cancer Biology** course! This  course is struct
 - **Duration**: 6 weeks
 - **Weekly Lecture**: One 3-hour session covering core concepts
 - **Advanced Topics**: One 1-hour session each week for in-depth discussions on advanced topics
-- **One-on-One Meetings**: Available upon request for personalized guidance or deeper exploration of topics
+- **One-to-One Meetings**: Available upon request for personalized guidance or deeper exploration of topics
 
 This course aims to equip you with knowledge and insights that will enable you to understand and interpret cancer biology research effectively. The course materials, assignments, and interactive sessions are designed to ensure a solid grasp of key topics and the latest developments in the field.
 
