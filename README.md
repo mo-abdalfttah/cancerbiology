@@ -12,16 +12,20 @@ Welcome to the **Introduction to Cancer Biology** course repository! This online
 
 This course aims to equip you with knowledge and insights that will enable you to understand and interpret cancer biology research effectively. The course materials, assignments, and interactive sessions are designed to ensure a solid grasp of key topics and the latest developments in the field.
 
-## 👨‍🏫 Course Instructor
+---
+### About the Instructor: Mohmed Abdalfttah
 
-### Mohmed Abdalfttah
+Mohmed has a background in Biotechnology, Computational Biology, and Cancer Research. Here’s a summary of his career journey:
 
-Mohmed Abdalfttah is a passionate researcher in cancer biology and systems immunology, with expertise in single-cell and spatial genomics. His journey in science began in Egypt, where he was born in November 1998. He earned his **Bachelor’s degree in Biotechnology** from Ain Shams University in June 2021. Shortly after, Mohmed undertook an internship in the **Computational Epigenomics lab** at Helmholtz Zentrum München, focusing on cell-cell communication using both bulk and single-cell transcriptomic data.
+- **November 1998**: Born in Egypt.
+- **June 2021**: Graduated with a Bachelor’s degree in Biotechnology from Ain Shams University, Egypt.
+- **September 2021 - March 2022**: Completed a six-month internship in computational epigenomics, focusing on developing a cell-cell communication algorithm using bulk and single-cell transcriptomic data.
+- **June 2022**: Moved to Barcelona to work as a Computational Biologist, contributing to research projects on breast cancer and brain metastasis, with a focus on the tumor microenvironment using single-cell data and spatial transcriptomics.
+- **September 2023 - July 2024**: Pursued a Master’s degree at the Barcelona Institute of Science and Technology, with a thesis focusing on the tumor microenvironment and cancer cell heterogeneity in colorectal cancer through single-cell and spatial transcriptomics.
+- **September 2024**: Began a PhD at the National Cancer Research Center, specializing in brain metastasis research, focusing on cancer cell heterogeneity and the tumor microenvironment using single-cell and spatial genomics. 
 
-In 2022, he joined the **Single Cell Genomics lab** at the National Center for Genomic Analysis (CNAG) in Barcelona, working on groundbreaking projects involving **breast cancer** and **brain metastasis**, with a focus on the tumor microenvironment. He continued his academic journey in 2023 at the **Barcelona Institute of Science and Technology (BIST)**, completing his Master’s thesis on the tumor microenvironment in colorectal cancer in the **Colorectal Cancer lab** at the Institute for Research in Biomedicine (IRB).
-
-Currently, Mohmed is a PhD student at the **brain metastasis lab at the National Cancer Research Center (CNIO)**, where he delves into cancer cell heterogeneity and the tumor microenvironment, using cutting-edge single-cell and spatial transcriptomics methods.
-
+Mohmed’s experience and expertise in computational biology, single-cell genomics, and cancer research bring valuable insights into this course.
+---
 ## 📂 Course Materials
 
 This repository will include:
