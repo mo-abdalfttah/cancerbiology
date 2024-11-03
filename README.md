@@ -36,7 +36,7 @@ This repository will include:
 
 Feel free to explore the resources provided, participate in discussions, and reach out if you need clarification or additional support on specific topics.
 
-## Fees
+## 💵 Fees
 - **Early Registration**: 1000 EGP (from mid-November to mid-December)
 - **Regular Registration**: 1200 EGP (from mid-December to mid-January)
 - **Late Registration**: 1500 EGP (from mid-January to January 25)
