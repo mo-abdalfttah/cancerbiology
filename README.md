@@ -53,7 +53,85 @@ We'll provide structured tasks and one-on-one support, ensuring you understand e
 
 Join us in this learning journey and become well-prepared for the next step in understanding cancer biology!
 
-## 💵 Fees
+## 📚 Course Content
+
+### 1. Introduction to Cancer 🔍
+   - What is cancer?
+   - Basic cell biology of cancer development 🧫
+   - Differences between normal cells and cancer cells
+   - Introduction to tumor progression
+
+### 2. Basics of Cell Biology and the Cell Cycle ⏳
+   - Introduction to cell structure and function 🧬
+   - Overview of the cell cycle and its regulation
+   - How uncontrolled cell cycle leads to cancer
+
+### 3. Tumor Types and Origins 🦠
+   - Origin of tumors from normal tissues
+   - Classification of tumors: Benign vs. Malignant
+   - Histopathology and architecture of tumors
+   - Epithelial origin of carcinomas
+
+### 4. Hallmarks of Cancer 📈
+   - The "Hallmarks of Cancer" framework by Hanahan and Weinberg
+   - Key traits of cancer cells: sustaining proliferative signaling, evading growth suppressors, resisting cell death, enabling replicative immortality, and more
+
+### 5. Classification of Cancers 🔬
+   - Carcinomas and epithelial tissue structure
+   - Other tumor types: Sarcomas, hematopoietic, and neuroectodermal tumors
+   - Traits of primary tumors vs. metastases
+
+### 6. Genetic and Environmental Causes of Cancer 🌎
+   - Genetic risk factors and hereditary cancer syndromes
+   - Role of lifestyle and environmental influences in cancer risk
+   - Historical examples linking occupation, lifestyle, and cancer incidence
+
+### 7. Mechanisms of DNA Damage and Repair 🛠️
+   - Types of DNA damage and common causes
+   - Mechanisms cells use to repair damaged DNA
+
+### 8. Metabolic Adaptations in Cancer ⚡️
+   - Understanding the Warburg effect
+   - Anabolic and catabolic pathways in cancer metabolism
+   - Tumor adaptations to hypoxic (low-oxygen) conditions
+
+### 9. Genomic and Molecular Drivers of Cancer 🧬
+   - Tumor suppressor genes and oncogenes
+   - Mechanisms of gene mutations and amplification in cancer
+   - Proto-oncogenes and their activation to oncogenes
+
+### 10. Cellular Progression in Cancer 🔄
+   - Processes of hyperplasia, metaplasia, and dysplasia
+   - Genetic instability and chromosomal abnormalities
+   - Monoclonal origin and mutation accumulation in tumors
+
+### 11. Cancer Epidemiology and Statistics 📊
+   - Understanding cancer prevalence, incidence, and survival rates
+   - Key trends in cancer statistics by type and region
+
+### 12. Cancer Prevention and Early Detection 🩺
+   - Principles of cancer prevention and risk factor management
+   - Screening programs and the importance of early detection
+
+### 13. Cancer Immunology 🛡️
+   - Basics of immune surveillance in cancer
+   - How tumors evade the immune system
+   - Overview of immunotherapy approaches like checkpoint inhibitors
+
+### 14. Cancer Treatment Strategies 💊
+   - Overview of surgery, radiation, and chemotherapy
+   - Targeted therapies, hormone therapies, and personalized medicine
+
+### 15. The Process of Metastasis 🚀
+   - **Metastasis Overview**: The multi-step nature of metastasis and its clinical significance
+   - **Invasion and Migration**: Mechanisms of local invasion and tumor cell migration
+   - **Circulation and Extravasation**: Circulation of tumor cells and settlement in distant organs
+   - **Formation of Secondary Tumors**: Colonization and growth in new tissue environments
+   - **Organ-Specific Metastasis**: Site-specific factors for metastasis (bone, liver, lungs, brain)
+
+---
+
+## 💵 Course Fees
 - **Early Registration**: 1000 EGP (from mid-November to mid-December)
 - **Regular Registration**: 1200 EGP (from mid-December to mid-January)
 - **Late Registration**: 1500 EGP (from mid-January to January 25)
