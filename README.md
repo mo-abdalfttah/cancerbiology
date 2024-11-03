@@ -5,7 +5,6 @@
 Welcome to the **Introduction to Cancer Biology** course! This  course is structured to give participants a deep understanding of cancer biology, exploring everything from fundamental principles to advanced research topics. Each week, we will cover different aspects of cancer biology, from cellular mechanisms to therapeutic strategies.
 
 ## 📅 Course Overview
-- **Preparation (Before the course)** 15-day program designed for participants without a molecular biology background before the course (Optional)
 - **Duration**: 6 weeks
 - **Weekly Lecture**: One 3-hour session covering core concepts
 - **Advanced Topics**: One 1-hour session each week for in-depth discussions on advanced topics
@@ -22,11 +21,9 @@ Mohmed has a background in Biotechnology, Computational Biology, and Cancer Rese
 - **June 2021**: Graduated with a Bachelor’s degree in Biotechnology from Ain Shams University, Egypt.
 - **September 2021 - March 2022**: Completed a six-month internship in computational epigenomics, focusing on developing a cell-cell communication algorithm using bulk and single-cell transcriptomic data.
 - **June 2022**: Moved to Barcelona to work as a Computational Biologist, contributing to research projects on breast cancer and brain metastasis, with a focus on the tumor microenvironment using single-cell data and spatial transcriptomics.
-- **September 2023 - July 2024**: Pursued a Master’s degree at the Universitat Pompeu Fabra, with a thesis focusing on the tumor microenvironment and cancer cell heterogeneity in colorectal cancer through single-cell and spatial transcriptomics in Institute for Research in Biomedicine, Barcelona.
+- **September 2023 - July 2024**: Pursued a Master’s degree at Universitat Pompeu Fabra, focusing on a thesis exploring the tumor microenvironment and cancer cell heterogeneity in colorectal cancer through single-cell and spatial transcriptomics at the Institute for Research in Biomedicine (IRB) in Barcelona.
 - **September 2024**: Began a PhD at the National Cancer Research Center (CNIO) and the Faculty of Medicine at Universidad Autónoma de Madrid, specializing in brain metastasis research with a focus on cancer cell heterogeneity and the tumor microenvironment using single-cell and spatial genomics.
 
-Mohmed’s experience and expertise in computational biology, single-cell genomics, and cancer research bring valuable insights into this course.
----
 ## 👥 Who Can Join the Course?
 
 This course is open to anyone interested in cancer biology, especially:
