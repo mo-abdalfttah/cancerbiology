@@ -56,7 +56,7 @@ Join us in this learning journey and become well-prepared for the next step in u
 - **Regular Registration**: 1200 EGP (from mid-December to mid-January)
 - **Late Registration**: 1500 EGP (from mid-January to January 25)
 
-- ## 💳 How to Pay
+## 💳 How to Pay
 - **📲 Vodafone Cash**
 - **📱 InstaPay**
 - **🏦 Bank Transfer**
