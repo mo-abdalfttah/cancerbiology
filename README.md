@@ -40,13 +40,13 @@ No worries! We've got you covered. For those who need a foundation in molecular 
 
 ### Molecular Biology Basics
 
-In this program, you'll follow along with Mohmed Abdalfttah's **YouTube playlist** covering essential topics:
+In this program, you'll follow along with Mohmed Abdalfttah's [**YouTube playlist**](https://www.youtube.com/@MoAbdalfttah) covering essential topics:
 
-1. **DNA Structure and Analysis**
-2. **DNA Replication**
-3. **DNA Transcription**
+1. [**DNA Structure and Analysis**](https://www.youtube.com/watch?v=zezS_6VPKe8&list=PLC4LFcwOQGSFSXo72eTw04tf7DMzyeuj_)
+2. [**DNA Replication**](https://www.youtube.com/watch?v=T_fvNAU4DQs&list=PLC4LFcwOQGSH8NbGsisaJiyhxWQ5MVF1l)
+3. [**DNA Transcription**](https://www.youtube.com/watch?v=BllQyJFW8JA&list=PLC4LFcwOQGSHGArTtrYu4U0iP9LbBEO_Z)
 
-We'll provide structured tasks and one-on-one support, ensuring you understand each concept. This preparatory phase is designed to build your confidence and equip you with the knowledge needed to fully engage with the main cancer biology course.
+We'll provide structured tasks and one-to-one support, ensuring you understand each concept. This preparatory phase is designed to build your confidence and equip you with the knowledge needed to fully engage with the main cancer biology course.
 
 Join us in this learning journey and become well-prepared for the next step in understanding cancer biology!
 
