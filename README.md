@@ -25,15 +25,31 @@ Mohmed has a background in Biotechnology, Computational Biology, and Cancer Rese
 
 Mohmed’s experience and expertise in computational biology, single-cell genomics, and cancer research bring valuable insights into this course.
 ---
-## 📂 Course Materials
+## 👥 Who Can Join the Course?
 
-This repository will include:
-- **Lecture slides and weekly materials** to supplement the main topics
-- **Readings and additional resources** for extended learning
-- **Advanced topic discussions** to delve deeper into each week’s theme
-- **Assignments and project guidelines** to reinforce concepts and skills
+This course is open to anyone interested in cancer biology, especially:
 
-Feel free to explore the resources provided, participate in discussions, and reach out if you need clarification or additional support on specific topics.
+- **Undergraduate and Graduate Students**: Ideal for those studying biomedical sciences, biotechnology, or related fields.
+- **Early Career Researchers**: Suitable for researchers new to cancer biology or those transitioning into this field.
+- **Enthusiastic Learners**: Anyone with a passion for understanding the complexities of cancer at the cellular level.
+
+No prior experience in cancer research is required, though a basic understanding of Molecular Biology will be helpful!
+
+## 📘 Don't Have a Background in Molecular Biology?
+
+No worries! We've got you covered. For those who need a foundation in molecular biology, we offer a **15-day preparatory program** to help you get up to speed before diving into cancer biology. **This program is included in the course fees, with no additional charges.**
+
+### Molecular Biology Basics
+
+In this program, you'll follow along with Mohmed Abdalfttah's **YouTube playlist** covering essential topics:
+
+1. **DNA Structure and Analysis**
+2. **DNA Replication**
+3. **DNA Transcription**
+
+We'll provide structured tasks and one-on-one support, ensuring you understand each concept. This preparatory phase is designed to build your confidence and equip you with the knowledge needed to fully engage with the main cancer biology course.
+
+Join us in this learning journey and become well-prepared for the next step in understanding cancer biology!
 
 ## 💵 Fees
 - **Early Registration**: 1000 EGP (from mid-November to mid-December)
