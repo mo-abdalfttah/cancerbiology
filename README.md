@@ -16,7 +16,7 @@ This course aims to equip you with knowledge and insights that will enable you t
 
 ---
 
-### 👨‍🏫 About the Instructor: Mohmed Abdalfttah
+## 👨‍🏫 About the Instructor: Mohmed Abdalfttah
 
 Mohmed has a background in Biotechnology, Computational Biology, and Cancer Research. Here’s a summary of his career journey:
 
