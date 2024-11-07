@@ -6,6 +6,7 @@ Welcome to the **Introduction to Cancer Biology** course! This  course is struct
 
 ## 📅 Course Overview
 - **When?** 25-01-2025
+- **Where?** Online
 - **Duration**: 6 weeks
 - **Weekly Lecture**: One 3-hour session covering core concepts
 - **Advanced Topics**: One 1-hour session each week for in-depth discussions on advanced topics
