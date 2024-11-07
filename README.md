@@ -14,8 +14,6 @@ Welcome to the **Introduction to Cancer Biology** course! This  course is struct
 
 This course aims to equip you with knowledge and insights that will enable you to understand and interpret cancer biology research effectively. The course materials, assignments, and interactive sessions are designed to ensure a solid grasp of key topics and the latest developments in the field.
 
----
-
 ## 👨‍🏫 About the Instructor: Mohmed Abdalfttah
 
 Mohmed has a background in Biotechnology, Computational Biology, and Cancer Research. Here’s a summary of his career journey:
