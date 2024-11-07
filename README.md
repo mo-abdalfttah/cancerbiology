@@ -20,10 +20,10 @@ Mohmed has a background in Biotechnology, Computational Biology, and Cancer Rese
 
 - **November 1998**: Born in Egypt.
 - **June 2021**: Graduated with a Bachelor’s degree in Biotechnology from Ain Shams University, Egypt.
-- **September 2021 - March 2022**: Completed a six-month internship in computational epigenomics, focusing on developing a cell-cell communication algorithm using bulk and single-cell transcriptomic data.
-- **June 2022**: Moved to Barcelona to work as a Computational Biologist, contributing to research projects on breast cancer and brain metastasis, with a focus on the tumor microenvironment using single-cell data and spatial transcriptomics.
-- **September 2023 - July 2024**: Pursued a Master’s degree at Universitat Pompeu Fabra, focusing on a thesis exploring the tumor microenvironment and cancer cell heterogeneity in colorectal cancer through single-cell and spatial transcriptomics at the Institute for Research in Biomedicine (IRB) in Barcelona.
-- **September 2024**: Began a PhD at the National Cancer Research Center (CNIO) and the Faculty of Medicine at Universidad Autónoma de Madrid, specializing in brain metastasis research with a focus on cancer cell heterogeneity and the tumor microenvironment using single-cell and spatial genomics.
+- **September 2021 - March 2022**: Completed a six-month internship in computational epigenomics at Helmholtz Munich, focusing on developing a cell-cell communication algorithm using bulk and single-cell transcriptomic data.
+- **June 2022**: Moved to Barcelona to work as a Computational Biologist, contributing to research projects on breast cancer and brain metastasis, with a focus on the tumor microenvironment.
+- **September 2023**: Pursued a Master’s degree at Universitat Pompeu Fabra, focusing on a thesis exploring the tumor microenvironment and cancer cell heterogeneity in colorectal cancer through single-cell and spatial transcriptomics at the Institute for Research in Biomedicine (IRB) in Barcelona.
+- **September 2024**: Began a PhD at the National Cancer Research Center (CNIO) and the Faculty of Medicine at Universidad Autónoma de Madrid, specializing in brain metastasis research with a focus on cancer cell heterogeneity and the tumor microenvironment.
 
 ## 👥 Who Can Join the Course?
 
