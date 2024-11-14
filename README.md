@@ -9,8 +9,8 @@ Welcome to the **Introduction to Cancer Biology** course! This  course is struct
 - **Where?** Online
 - **Duration**: 6 weeks
 - **Weekly Lecture**: One 3-hour session covering core concepts
-- **Advanced Topics**: One 1-hour session each week for in-depth discussions on advanced topics
-- **One-to-One Meetings**: Available upon request for personalized guidance or deeper exploration of topics
+- **Weekly Tutorial**: One 1-hour session each week for in-depth discussions on advanced topics
+- **Weekly One-to-One Meetings**: One 1-hour session available upon request for personalized guidance or deeper exploration of topics
 
 This course aims to equip you with knowledge and insights that will enable you to understand and interpret cancer biology research effectively. The course materials, assignments, and interactive sessions are designed to ensure a solid grasp of key topics and the latest developments in the field.
 
@@ -18,11 +18,10 @@ This course aims to equip you with knowledge and insights that will enable you t
 
 Mohmed has a background in Biotechnology, Computational Biology, and Cancer Research. Here’s a summary of his career journey:
 
-- **November 1998**: Born in Egypt.
 - **June 2021**: Graduated with a Bachelor’s degree in Biotechnology from Ain Shams University, Egypt.
-- **September 2021 - March 2022**: Completed a six-month internship in computational epigenomics at Helmholtz Munich, focusing on developing a cell-cell communication algorithm using bulk and single-cell transcriptomic data.
-- **June 2022**: Moved to Barcelona to work as a Computational Biologist, contributing to research projects on breast cancer and brain metastasis, with a focus on the tumor microenvironment.
-- **September 2023**: Pursued a Master’s degree at Universitat Pompeu Fabra, focusing on a thesis exploring the tumor microenvironment and cancer cell heterogeneity in colorectal cancer through single-cell and spatial transcriptomics at the Institute for Research in Biomedicine (IRB) in Barcelona.
+- **September 2021 - March 2022**: Completed a six-month internship in computational epigenomics at Helmholtz Munich,Germany, focusing on developing a cell-cell communication algorithm using bulk and single-cell transcriptomic data.
+- **June 2022 - June 2024**: Moved to Barcelona, Spain to work as a Computational Biologist, contributing to research projects on breast cancer and brain metastasis, with a focus on the tumor microenvironment.
+- **September 2023 - July 2024**: Completed a Master’s degree at Universitat Pompeu Fabra, with a thesis focused on exploring the tumor microenvironment and cancer cell heterogeneity in colorectal cancer through single-cell and spatial transcriptomics at the Institute for Research in Biomedicine (IRB) in Barcelona, Spain.
 - **September 2024**: Began a PhD at the National Cancer Research Center (CNIO) and the Faculty of Medicine at Universidad Autónoma de Madrid, specializing in brain metastasis research with a focus on cancer cell heterogeneity and the tumor microenvironment.
 
 ## 👥 Who Can Join the Course?
@@ -37,9 +36,7 @@ No prior experience in cancer research is required, though a basic understanding
 
 ## 📘 Don't Have a Background in Molecular Biology?
 
-No worries! We've got you covered. For those who need a foundation in molecular biology, we offer a **15-day preparatory program** to help you get up to speed before diving into cancer biology. **This program is included in the course fees, with no additional charges.**
-
-### Molecular Biology Basics
+No worries! We've got you covered. For those who need a foundation in molecular biology, we offer a **15-day preparatory program** to help you get up to speed before diving into cancer biology. **This program is FREE, with no additional charges.**
 
 In this program, you'll follow along with Mohmed Abdalfttah's [**YouTube playlist**](https://www.youtube.com/@MoAbdalfttah) covering essential topics:
 
@@ -47,9 +44,9 @@ In this program, you'll follow along with Mohmed Abdalfttah's [**YouTube playlis
 2. [**DNA Replication**](https://www.youtube.com/watch?v=T_fvNAU4DQs&list=PLC4LFcwOQGSH8NbGsisaJiyhxWQ5MVF1l)
 3. [**DNA Transcription**](https://www.youtube.com/watch?v=BllQyJFW8JA&list=PLC4LFcwOQGSHGArTtrYu4U0iP9LbBEO_Z)
 
-We'll provide structured tasks and one-to-one support, ensuring you understand each concept. This preparatory phase is designed to build your confidence and equip you with the knowledge needed to fully engage with the main cancer biology course.
+We'll provide group study, structured tasks and one-to-one support, ensuring you understand each concept. This preparatory phase is designed to build your confidence and equip you with the knowledge needed to fully engage with the main cancer biology course.
 
-Join us in this learning journey and become well-prepared for the next step in understanding cancer biology!
+If you need this preparation , join us in this learning journey and become well-prepared for the next step in understanding cancer biology!
 
 ## 📚 Course Content
 
