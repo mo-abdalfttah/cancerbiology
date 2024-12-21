@@ -127,9 +127,8 @@ If you need this preparation , join us in this learning journey and become well-
 ---
 
 ## 💵 Course Fees
-- **Early Registration**: 1000 EGP (from mid-November to mid-December)
-- **Regular Registration**: 1200 EGP (from mid-December to mid-January)
-- **Late Registration**: 1500 EGP (from mid-January to January 25)
+- **For Egyptian**: 1000 EGP
+- **For non Egyptian**: 1000 USD
 
 ## 💳 How to Pay
 - **📲 Vodafone Cash**
