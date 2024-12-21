@@ -128,7 +128,7 @@ If you need this preparation , join us in this learning journey and become well-
 
 ## 💵 Course Fees
 - **For Egyptian**: 1000 EGP
-- **For non Egyptian**: 1000 USD
+- **For non Egyptian**: 100 USD
 
 ## 💳 How to Pay
 - **📲 Vodafone Cash**
